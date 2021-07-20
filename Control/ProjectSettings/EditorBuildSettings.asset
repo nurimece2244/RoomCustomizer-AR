@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dc70c178adbfcc644befbc39dc49142c
+  - enabled: 1
+    path: Assets/Scenes/SofaScene/ARSingle.unity
+    guid: 71c4049dea7b714448b71a149f44c595
+  - enabled: 1
+    path: Assets/Scenes/RotationTryOut.unity
+    guid: 3013ceff94dc0cd41b86bd5986169518
+  - enabled: 1
+    path: Assets/Scenes/Gecis.unity
+    guid: bb525c4994477a64a95f5917a19fa3dc
+  - enabled: 1
+    path: Assets/Scenes/Catalog.unity
+    guid: 57e539ffb038ddc42aebf7215bfd631f
+  - enabled: 1
+    path: Assets/Scenes/Design.unity
+    guid: 7a87466c0d1f1e54b82ee7f7f3625674
+  - enabled: 1
+    path: Assets/Scenes/GalleryPage.unity
+    guid: 1e86768e9cfe50b41962fb61c046e9a6
+  - enabled: 1
+    path: Assets/Scenes/ChairScene/Chair.unity
+    guid: aa21f2ea3ffd80946a04060d91af228d
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 1ac7cd9030fbe944fa430d509590dc53
+  - enabled: 1
+    path: Assets/Scenes/LampScene/LampOption.unity
+    guid: a833f6ca7b53058459eddf009d3b2b2e
+  - enabled: 1
+    path: Assets/Scenes/OthersScene/OthersOption.unity
+    guid: dbd93cbf57cd1804f9f1bc2107225235
+  - enabled: 1
+    path: Assets/Scenes/BedScene/BedOption.unity
+    guid: 459d4681429ca8b498b9880d96afc848
+  - enabled: 1
+    path: Assets/Scenes/ChairScene/ChairOption.unity
+    guid: 30aca9d478335744495f210073f456b5
+  - enabled: 1
+    path: Assets/Scenes/CatalogGecis.unity
+    guid: a4d16e32aabdd9441b27f67c1585efd8
+  - enabled: 1
+    path: Assets/Scenes/CabinetScene/CabinetOption.unity
+    guid: 310d9f4be9943d247b357998bcd34c9a
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/LivingRoomARscene.unity
+    guid: 4df181bd46d620a4a9c0b6842128dcac
+  - enabled: 1
+    path: Assets/Scenes/SofaScene/SofaOption.unity
+    guid: 385a164457248e2429bcd3053cf96962
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/SaloonARScene.unity
+    guid: bcda6c9226cd1d74187710bac485ffee
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/BalconyARscene.unity
+    guid: 02d289339a6265444a45c2757f4da717
+  - enabled: 1
+    path: Assets/Scenes/SofaScene/Couch.unity
+    guid: 903a7a1d150b9064b958f8efbaadf964
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/BedroomARscene.unity
+    guid: b8b7b8d5ec99a7a4fa2de9c6fd74e39a
+  - enabled: 1
+    path: Assets/Scenes/SofaScene/Sunset.unity
+    guid: ac5f0973e368e4947972b8dc47d229bf
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/MixARscene.unity
+    guid: b8728f6e3b70ae44ea5ba23fb1451cd1
+  - enabled: 1
+    path: Assets/Scenes/FavoriteScene.unity
+    guid: 9bd65359071d6a44ebaff9afc060b2ed
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/BathroomARscene.unity
+    guid: 72de8e5b9b18b28498e80afe61818e65
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/KitchenARscene.unity
+    guid: b0d26555be8999f4f9145942a1ca3349
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2f657b70c76b6104dbf102c7390fd2b8,
+      type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: b717251d32d88d64c80e0dd60fbafc2d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad352418b9b87944b99c4417e3592f10,
+      type: 2}
